@@ -1,6 +1,6 @@
 package org.tnsif.capgemini.c2tc.exceptiondemo;
 
-public class ArithmeticException {
+public class ArithmeticException1 {
 
 	public static void main(String[] args) {
 		int number_one=50/5;
